@@ -1,4 +1,4 @@
-# GitHub Repository File Fetcher
+# GitHub Repository Code Update
 
 This script is designed to fetch and synchronize Python files from a specific GitHub repository. 
 It uses the GitHub API to retrieve the content of specified files, check for any updates, 
